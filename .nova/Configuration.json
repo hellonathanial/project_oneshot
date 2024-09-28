@@ -1,0 +1,16 @@
+{
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "json",
+    "markdown"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/nathan\/Developer\/Work\/project_oneshot\/readme.md"
+  ],
+  "editor.default_syntax" : "python",
+  "python.interpreter" : "\/usr\/local\/bin\/python3.11",
+  "workspace.color" : 9,
+  "workspace.name" : "Project OneShot"
+}
