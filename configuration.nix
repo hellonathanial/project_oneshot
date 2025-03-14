@@ -110,15 +110,17 @@
 	# ENVIRONMENT
 	## PACKAGES
 	environment.systemPackages = with pkgs; [
+		aquamarine
 		bluez-alsa btop btrfs-progs
 		curl
 		dbus
 		git go
-		htop
+		htop hyprpolkitagent hypridle hyprlock hyprpaper hyprpicker hyprcursor hyprutils hyprlang hyprgraphics hyprland-qtutils hyprland-qt-support hyprwayland-scanner hyprutils hyprsunset
 		iwd
 		kitty
 		neofetch
 		pavucontrol
+		rustup
 		seatd
 		waybar wget wofi
 	];
